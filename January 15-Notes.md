@@ -6,4 +6,4 @@
 - My first issue however was the trimming tool on the app. It doesnt work. It simply does not trim off what i want it to; or trim anything for that matter.
 - My next item was a book. Another simple item
 - To my surprise, it came out great, although i was unable to circle the model completley, the details were surprising. 
-- Starting class now, hoping to get some better ideas of what to scan, and all the best way to scan in general.
+- Starting class now, hoping to get some better ideas of what to scan, and the best way to scan in general.

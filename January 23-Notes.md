@@ -16,5 +16,5 @@
 - I'm unsure how many I need for the project itself, or if we are only focusing on one object, but I uploaded them to Sketchfab where, hopefully later this weekend, I can attempt to fix up using Blender.
 - So while failure happens, I was able to learn and believe I can focus on making better models moving forward.
 
--This is a link to my Sketchfab account, I currently have 4 ROUGH models uploaded. I figure they can sit here before i tidy them up.
+- This is a link to my Sketchfab account, I currently have 4 ROUGH models uploaded. I figure they can sit here before i tidy them up.
 https://sketchfab.com/Piespork

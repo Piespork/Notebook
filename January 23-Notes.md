@@ -1,4 +1,4 @@
-#Failure Inbound!
+# Failure Inbound!
 
 - Well the Prof warned us failure would be coming, and here it is!
 - Issues arose with my Trnio app, things were not scanning properly

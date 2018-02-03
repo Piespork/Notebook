@@ -18,3 +18,9 @@
 # Cleaning up
 - With the model up on Sketchfab my work was 'technically' finished; Sketchfab contains the .obj, .mtl, and texture file for the model. However, I decided to further clean up the model.
 - The first attempt at cleaning up the model lead me to Blender, a rather robust software for 3D-modeling. After spending some time learning how to use the software, I went to work on cleaning up the model. However, issues arose when the program needed me to do UV mapping, something that is certainly out of my scope.
+- My next attempt lead me to Meshlab, something I had trouble with download originally. Using another computer I was able to quickly learn the software and then clean up the model. 
+- Finally happen with my model, I exported it back to Sketchfab.
+
+# Final Notes
+- There was much to learn from the process of finding and creating a digital 3D-model. Things are not easy. The process is a rather new form of technology unlike anything else that humans have been capable of. We are now able to find something and capture it. This copy can be either something that defines how others will see it (ie, the original could be destroyed and the copy is all that remains, or it may be the first model of the original that someone sees). 
+- I've learned that nothing is perfect and there is still MUCH work to be done in this rising field of digital history. 

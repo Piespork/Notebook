@@ -1,6 +1,7 @@
 # Object Biography
 
 - The model is of an antique wooden fish. The fist itself comes from northern Cuba, handcrafted by a street merchant. 
+- The model was bought in 2010 for roughly 15$ canadian.
 - Not much can be said about the origins of the material, ie. the wood.
 - The paint would be standard coloring paint.
 - The merchant who created the sculpture was a local of the area, just a simple man making sculptures to make money to live off of. 

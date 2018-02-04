@@ -1,5 +1,17 @@
 # Model Bibliography
 
+# Software
+
+Trnio version 2.86 2018, Trnio inc., Apple, Apple app store. Used on Iphone 6.
+
+Blender version 2.79 2018, Blender Online Community, Blender Foundation, Blender Institute, Amsterdam. Used on Windows 10.
+
+Meshlab version v1.3.3 2014, MeshLab: an Open-Source Mesh Processing Tool, GPL 3.0. Used on Windows 10. 
+
+Sketchfab, Sketchfab inc., Accessed on February 4, 2018. https://sketchfab.com
+
+# Videos
+
 'Jacob Lewis', 2014. "Blender Absolute Beginner Tutorial: Episode 1", Youtube, Accessed on January 27, 2018. https://www.youtube.com/watch?v=LLV7h-WLIx0&ab_channel=JacobLewis
 
 ---, 2014. "Blender Absolute Beginner Tutorial: Episode 2", Youtube, Accessed on January 27, 2018. https://www.youtube.com/watch?v=3zxMd6HbG4k&ab_channel=JacobLewis
@@ -27,3 +39,7 @@
 ---, 2011. "MeshLab Basics: Selection, part two", Youtube, Accessed on February 1, 2018. https://www.youtube.com/watch?v=Bc3GdJ6Ddsc&ab_channel=MisterP.MeshLabTutorials
 
 ---, 2011. "Cleaning: Triangles and Vertices Removal", Youtube, Accessed on February 1, 2018. https://www.youtube.com/watch?v=m2nmeJj5Ij4&ab_channel=MisterP.MeshLabTutorials
+
+# Owernship of Model
+
+- Wooden fish sculpture is owned by Dr. Neil Ellerington. Origins are of northern Cuba, name of creator is unkown. 

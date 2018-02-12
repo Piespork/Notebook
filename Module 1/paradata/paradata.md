@@ -1,7 +1,7 @@
 # Model Paradata
 
 # History
-- The process of module 1 begins with what my overall goal was. Rather than starting with how'll model, or even what I was going to model, it started with the idea that i'd need to digitally translate an object / scene from the real world. 
+- The process of module 1 begins with what my overall goal was. Rather than starting with how i will model, or even what I was going to model, it started with the idea that i'd need to digitally translate an object / scene from the real world. 
 - From there I could decide on how I would digitally translate an object. Several methods were available, including several digital devices such as an android tablet, a digital camera, iphone, etc. The digital device I went with was an Iphone 6.
 - After choosing the device came choosing the technology. In this case I found the app 'Trnio' to be suitable for 3D-modeling. 
 - It isnt enough to simply download an application and go; instead, I had to learn the in-and-out of using an app for 3D-modeling. 

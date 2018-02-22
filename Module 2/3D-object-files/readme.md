@@ -4,4 +4,4 @@
 
 - They can be downloaded there (sketchfab will give a .obj, .mtl, and a .jpg).
 
-- If the link does not open for any reason, search sketchfab for the user 'Piespork'. The model being used is the 'Fish Guevera'.
+- If the link does not open for any reason, search sketchfab for the user 'Piespork'. The model being used is the 'Fish Guevara'.

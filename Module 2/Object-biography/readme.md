@@ -7,5 +7,5 @@
 # Fish Model
 - Notes on the fish model can be found at https://github.com/Piespork/Notebook/tree/master/Module%201/Object-biography
 
-# Che Guevera
+# Che Guevara
 - 

@@ -1,1 +1,49 @@
 # Model Paradata
+
+# Understanding What Needs to be Made
+- I began this module rather exictingly with a fun experience we had in class (making a twitterbot). I had so much fun that I thought creating a twitter bot for module 2 would be the best way to fulfill whatever goal was set my the prof. However, my ambition clouded my understanding.
+- The first thing I SHOULD have done was read more carefully before I began the project. Nevertheless, I began the twitterbot for my newly created 3D-model of my cuban fish. Friday afternoon I began working, and over the weekend I gather enoughed information, models, and pictures to create a 'tourist' bot of Cuba.
+- However, to my dismay, I talked to my prof on the monday and realized I made a mistake. The 2nd module isnt about creating an environment for the model. The 2nd module is about altering the model itself. So back to the drawing board I went.
+- After re-reading the expectations (and with a few suggestions from the prof) I was able to come up with a few ideas! The first idea was to use a suggessted software (MeshMixer) to mash-up 2 or more models. My inital idea was to mash together the fish with Poseidon (Greek god of the sea). Though the culture of Cuba has very little to do with Greek mythology, I figured it could make for a neat mash-up. However, after looking through Sketchfab for models to use, I came across a more 'Cuban centric' model: Che Guevara. I began using MeshMixer, failing to properly get the software from crashing. Frustrated after losing my entire work, I decided to try another suggested approach to the module. By looking through the files of a model you are able to see the different verticies that create the 3D-mapping of the model. By taking these verticies and putting them into MusicAlgorithms I was able to create notes for different instruments. I was then able to download the sounds into a Midi file. Audacity was a suggested sound-editing software to further alter the newly created model-sounds. However, after failing to properly work with Audacity I felt a bit stuck. Thankfully a fellow student suggested another software to help mash together 2 models. 3D-builder is a Microsoft app that allows for quick and easy building of 3D models. The software itself was rather easy to use and I was able to create a mashed-up model of my fish and Che Guevara.
+- Through each different software and procedure I was able to better understand what exactly the module was supposed to be teaching.
+
+# Twitter Bot
+- In class we had done an exerecise in which we would create a twitterbot. The website 'CheapBotsDoneQuick' was used to create these bots.
+- The first step was to create a new twitter account that would be used for the bot. We then logged into the 'CheapBotsDoneQuick' with our twitter account and could easily make a twitter bot that would post and reply on its own.
+- CheapBotsDoneQuick gives very simple instructions on how to begin making the bot. Through faily easy commands we were able to create several groups of responses and tweets that would randomly get chosen.
+- For example: tweetModel:{some model1, some model2,...} would contain models that could randomly be chosen to be tweeted. 
+- When it came time to work on module 2 I followed the exact same steps to create my own twitterbot for my 3D-model. 
+- I created several groups that includes facts, models, and pictures. 
+- However, I found out that this would not be suitable for module 2. 
+- Therefore, while the bot is currently running as of February 22 2018, it will not be used for the project.
+
+# MeshMixer
+- Before using MeshMixer I watched a few tutorials to get an idea of how to work with the tools within the software.
+- Importing both my Fish model and Che Guevara into MeshMixer, I altered their size to make them roughly the same. My first idea of a mash up was to take the fishes face and place it over Che's, while keeping Che's defining features (the hat and long hair). I started altering the size of the fish to fully cover Che's face, the body of the fish would be extremly large and would need to be trimmed down. I was able to cover Che's face and successfully mash both models together. 
+- However, MeshMixer would constantly crash mid mashing. I tried to reduce the polygons for both models (MeshMixer has a built in feature to create simplier models without ruining quality). This unfortunatley did not help with the software crashing. Working through the crashes, I completed the model with only minor cleanup left. Sadly the data was loss after a few more crashes. I stopped working with MeshMixer and continued on to other options.
+
+# MusicAlgorithms
+- Prof. Graham provided a useful tutorial on how to use MusicAlgorithms and sonify data (https://programminghistorian.org/lessons/sonification). With that in mind I jumped right into using the website. I looked into my model's data through Notepad++ which gave me a list of all the different verticies that made the map of my model. By selecting random sets of verticies I could then convert them into specific notes for a piano (or other musical instrument). 
+- By taking different sets of verticies and placing them within a scale on MusicAlgorithms, they can then be converted into notes. I chose to use 6 pairs of 3 verticies (each line of my models data was 3 verticies, so it made sense to count each line as a point of the model). 
+- MusicAlgorithms allows for 3 sections of notes to be put together; each section containing the 6 pairs of 3 verticies. Therefore, 3 * 18 notes were created and put together. MusicAlgorthims then allows the user to further alter the notes via pitch, instrument, etc. There are many options to change how the data may sound, all while altering the original data (not creating new data). This heavily relates to what the module is about. Altering original data.
+- MusicAlgorithms allows you to download the finished group of notes as a Midi file. After downloading the Midi file I tried altering the data with Audacity.
+
+# Audacity
+- Before using Audacity I looked up basic tutorials on Youtube to better understand what the software was capable of.
+- However, my lack of knowledge on editing sound files proved a hinderince since I had no idea what to do with my Midi file of sounds created from my modules data.
+- I tried to alter the Midi file data, but was unable to successfully do anything with the sounds. 
+- I did not spend long with Audacity before giving up and re-trying the mash-up with different software. 
+
+# 3D Builder
+- A fellow student had pointed out that Windows 10 has a built in 3D model editor built in. This software, known as 3D Builder, is very light on a computers resources and does not craash (unlike MeshMixer for me). Thankfully the software is also very simple, allowing for quick work of mashing models together.
+- A quick tutorial on Youtube was all I needed before getting to work on mashing up my Fish model and Che Guevera once more.
+- Importing both models into the software I was able to change their size to once again make them similar. My first approach was to simply redo what I tried in MeshMixer. However, after altering the fishes size, 3D Builder lacks the sophisticated tools for trimming objects easily.
+- My next approach was to seperate the fish into two parts: the head and the tail. 3D Builder contains a tool for cutting away large sections of a model, making it fairly easy to trim away everything except the needed section. This cutting tool is a square that can be moved to cut away either above or below a section. 
+- I created two copies of my Fish model, one would cut everything expect the head while the other copy would cut away everything except the tail. Then I was able to change the size of each piece to correctly fit it onto my Che Guevara model. The head would cover Che's face while the tail would go on the back of Che's head.
+- After placing both the head and the tail 3D Builder has a simple feature for combining models, creating a single solid model.
+- The combined model (Fish Guevara) was then uploaded to Sketchfab.
+
+# Final Notes
+- Throughout each process I made notes of how I could tie in what we had been learning in class for module 2. The twitterbot came directly from the in-class exercise, but did not actually have anything to do with altering a model. Therefore I will save further coments about the twitterbot for module 3.
+- We discussed how altering can be seen as ethical, looking at readings that contained evidence throughout history that copies may somehow devalue the original. I began thinking about how mashing together a Fish model with Che Guevara could somehow devalue the originals. For the Fish model, I believe that there is no devaluation, but instead it gains value simply because it is unkown. By exposing the model I give something attention that would otherwise be forgotten. However, for Che Guevara who is a well known freedom fighter, there is an ethical issue. By mashing together Che with something else am I insulting him or his culture? Could others get angry for me 'defacing' a political figure? These questions made me cautious, but I ultimatley believed that there would be no ethical harm in mashing up Che with a Cuban fish model.
+- Another topic that was covered in class is featured in the readings: the fear of the copy. A big 'what if' is whether this new mashed-up model could somehow replace the original idea of something. While it is a bit of a stretch in this case, we do often see copies replace the original. Some of examples of this include statues that are dipicated as not being painted (when in fact we know statues were painted in antiquity). Music is also another topic in which we see copies / mashh ups that ultimatley replace the original. These are important things to keep in mind as I decided to create a mash up of something original (the Fist model) and something historic (Che Guevara). 

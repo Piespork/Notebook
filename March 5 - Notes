@@ -1,0 +1,16 @@
+# History & Video Games
+- Today in class we discussed how video games and history mix. How can video games use history to tell a story? Do video game devs miss the mark when they create 'historically acurate' games that are NOT actually acurate?
+- I think it is important for the devs who want to create a historically acurate game to be 100% transparent about what is going to be historically acurate.
+- If devs only want to make combat acurate, or the setting, that is perfectly fine. HOWEVER! They must address this as such. This is mainly because many people who are only exposed to the history through games will believe the games 'historical accuracy' when they advertise it as such.
+- There lies a danger in producing something 'historically acurate' that isnt. The devs can bend certain truths and history to their whim, this gives them a certain power over those who do not know better or lack the ability to fact check.
+- For example, the game could focus on men and say that women were of no value at the time. This could be accurate, but if it isnt then it is blatent lying that can skew views.
+- We then moved onto two different twine based history games. My partner chose to play the Roman history game while i chose the time-traveling game.
+- The games were very different, the Roman history game seemed interesting in the fact that it had some merrit. Certain traits were given at birth, the choices could lead to death, etc. 
+- My partner decided at the very begining what his overall goal would be. He wanted to be in office. With this goal in mind he decided to make every choice that could potentially lead to this.
+- This included avoiding too many combats (didnt want to die early!), and raising his popularity. He did end up in office, which i found pretty interesting. His choices seemed logical, but my lack of Roman knowledge leads me to beleive it wasnt that simple.
+- I chose to play the time-traveling game because I thought it would be both interesting and perhaps test my knowledge on past events. I was right!
+- The game was surprisingly fun as it hinted at which event you were transported to (via a certain place and date). Then I was given the choiceto ZAP out certain historical figures.
+- Goodbye George Washington! (and his tree). You can stay Marie Antoinette, let them eat cake. There were a fair amount of events that both kept things interesting as well as made it clear I could 'change' history.
+- Of course, the game didn't detail out how my changes and ZAPs would alter history, but it is a fun 'what if'.
+- I believe these are both good examples of history games done right. While they are both small scale, they both have a certain quality that seems they have a certain goal in mind. That is, they don't try to reach out too far for what they are going for.
+- I enjoyed today's class. I believe historically accurate games are an important idea that must be done carefully. 

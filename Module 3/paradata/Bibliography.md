@@ -7,10 +7,10 @@
 'BlueMarbleNation', 2017. "Cuban National Anthem - "La Bayamesa" (ES/EN)", Youtube, Accessed on March 15th, 2018. https://www.youtube.com/watch?v=m_iXh_iwrwA
 
 # Websites
-Host website for twitterbot: https://cheapbotsdonequick.com/
-Location of twitterbot: https://twitter.com/CubaFactBot/
-Facts of Cuba found at: http://nationfacts.net/cuba-facts/
-Images of Cuba found at: https://www.nationalgeographic.com/
+- Host website for twitterbot: https://cheapbotsdonequick.com/
+- Location of twitterbot: https://twitter.com/CubaFactBot/
+- Facts of Cuba found at: http://nationfacts.net/cuba-facts/
+- Images of Cuba found at: https://www.nationalgeographic.com/
 
 # Ownership of Models
 - Wooden fish sculpture is owned by Dr. Neil Ellerington. Origins are of nothern Cuba, name of creator is unknown.

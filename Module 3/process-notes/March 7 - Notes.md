@@ -1,0 +1,13 @@
+# Twine Game
+- Firstly, before I get into what we did today, I'd like to say that I'm personally not a fan of Twine. I respect all the possibilites that it provides, and its a great way to express creativity in fun stories. However, I personally am not creative enough to make stories and expierences using it.
+- Using Twine we had to take our 'ticket' for the week and create a story. Then we would further use previous 'ticket's in our passages. 
+- My idea for my game started with my 'ticket' that talked about active and passive narratives. I love the idea of having different uses for narratives. So I gave the user the choice of using the passive or active narrative to start with.
+- If a user chooses the passive narrative then they are given no choices but simply follow along with different passages. I intended it to be boring and a pretty traditional way of conveying information.
+- If a user chooses the active narrative then they are given many choices that each lead to different outcomes. 
+- Some noteworthy things i've included throughout the game are pictures, sketchfab models, timed text, 'rewards'.
+- I tried to include audio, however found that I did not have enough time to figureout all the pathing issues as well as what format the audio needed to be in.
+- A large amount of trouble I had was using the passages properly. Most of them are quite different, so connecting them was a bit of a stretch.
+- I was quite happy with how it turned out, and it further illustrated a point I had made within my hypothsis notes. That is, to have many different endings and branches requires a fair amount of effort. If I focused on less branches and options I'm sure I could have included many different options and effects.
+- If I were to do it again then I would focus on a smaller, more intense narrative filled with interesting and connecting modifications
+- I wont be using Twine for my module 3 project, however I can take some of what I learned about building a narrative (both passive and active) and see how my Twitterbot can push those to the user. 
+- One way I can think of using an active narrative is more in depth responses by the bot, so that it involves the user more. 
